@@ -106,7 +106,7 @@ li {
 }
 
 .company-name{
-  font-size: 3rem;
+  font-size: 4rem;
   margin-left: 8px;
   color: #AA4D53;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
@@ -1423,7 +1423,7 @@ position: relative;
 }
 
 .company-name{
-  font-size: 2rem;
+  font-size: 3rem;
   margin-left: 8px;
   color: #AA4D53;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
